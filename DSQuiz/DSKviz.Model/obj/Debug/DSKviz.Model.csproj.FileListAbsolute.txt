@@ -1,0 +1,42 @@
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\DSKviz.Model.dll.config
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\obj\Debug\DSKviz.Model.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\obj\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\obj\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\DSKviz.Model.dll.config
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\obj\Debug\DSKviz.Model.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\obj\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Model\obj\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\DSKviz.Model.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\obj\Debug\DSKviz.Model.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\obj\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Model\obj\Debug\DSKviz.Model.pdb

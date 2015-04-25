@@ -1,0 +1,1067 @@
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.98s\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.99\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\DSKviz.dll.config
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\DSKviz.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\DSKviz.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Antlr3.Runtime.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\BeginCollectionItem.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Newtonsoft.Json.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Ninject.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Ninject.Web.Common.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Ninject.Web.Mvc.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Owin.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.Helpers.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.Mvc.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.Optimization.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.Razor.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.WebPages.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\WebActivatorEx.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\WebGrease.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Ninject.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Ninject.Web.Common.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Ninject.Web.Mvc.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.Helpers.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.Mvc.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.Optimization.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.Razor.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.WebPages.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Antlr3.Runtime.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Newtonsoft.Json.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\obj\Debug\DSKviz.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz\obj\Debug\DSKviz.pdb
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\DSKviz.dll.config
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\DSKviz.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\DSKviz.pdb
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Antlr3.Runtime.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\BeginCollectionItem.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\DSKviz.Dao.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\DSKviz.Model.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\EntityFramework.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\EntityFramework.SqlServer.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.Google.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Newtonsoft.Json.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Ninject.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Ninject.Web.Common.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Ninject.Web.Mvc.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Owin.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.Helpers.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.Mvc.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.Optimization.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.Razor.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.WebPages.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\WebActivatorEx.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\WebGrease.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\DSKviz.Dao.pdb
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\DSKviz.Model.pdb
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\EntityFramework.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\EntityFramework.SqlServer.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Ninject.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Ninject.Web.Common.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Ninject.Web.Mvc.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.Helpers.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.Mvc.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.Optimization.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.Razor.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.WebPages.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Antlr3.Runtime.pdb
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Newtonsoft.Json.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.Google.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GitHub\DSKviz\DSQuiz\DSKviz\obj\Debug\DSKviz.csprojResolveAssemblyReference.cache
+E:\GitHub\DSKviz\DSQuiz\DSKviz\obj\Debug\DSKviz.dll
+E:\GitHub\DSKviz\DSQuiz\DSKviz\obj\Debug\DSKviz.pdb

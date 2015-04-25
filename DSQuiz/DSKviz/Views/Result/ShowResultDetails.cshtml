@@ -1,0 +1,63 @@
+﻿@model DSKviz.Controllers.ResultController.ViewModelWrapper
+
+@{
+    ViewBag.Title = "ShowResultDetails";
+}
+
+<h2>Result Details</h2>
+
+<div>
+    <h4>Result details</h4>
+    <hr />
+
+        @foreach (var result in Model.resultList)
+        {
+            <h3>@Html.DisplayFor(m=>result.QuizName)</h3>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            <h4>Qestions</h4>
+                        </th>
+                        <th>
+                            <h4>Answered correctly</h4>
+                        </th>
+                        <th> 
+                            <h4>Correct answer</h4> 
+                        </th>
+                        <th>
+                            <h4>Username</h4>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var rezDetail in Model.rezDetail)
+                    {
+                        if (rezDetail.Result.ID == result.ID)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => rezDetail.Question)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => rezDetail.IsCorect)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => rezDetail.CorrectAnswer)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => rezDetail.UserName)
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+                
+            </table>
+        }
+
+    <br />
+</div>
+<p>
+    @Html.ActionLink("Back to List", "ShowResult")
+</p>

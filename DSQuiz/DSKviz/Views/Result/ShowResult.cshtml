@@ -1,0 +1,64 @@
+﻿@model List<DSKviz.Models.ResultViewModel>
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "ShowResult";
+}
+
+<h2>Result list</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            <h4>Quiz name</h4>
+        </th>
+        <th>
+            <h4>Quiz points</h4>
+        </th>
+        <th>
+            <h4>Username</h4>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model)
+{
+    <tr id="@item.ID">
+        <td>
+            @Html.DisplayFor(modelItem => item.QuizName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalPoints)
+        </td>
+        <td>
+            @User.Identity.GetUserName()
+        </td>
+        <td>
+            @if (this.User.IsInRole("Administrator"))
+            {
+                @Html.ActionLink("Details", "ShowResultDetails", new { id = item.ID }) @Html.Raw(" | ")
+                <a href="javascript:void(0)" onclick="deleteRow(this);">Delete</a>
+            }
+        </td>
+    </tr>
+}
+
+</table>
+
+@section scripts{
+    <script type="text/javascript">
+        function deleteRow(link) {
+            var tr = $(link).closest('tr');
+            $.ajax({
+                url: '@Url.Action("DeleteResult")',
+                method: "GET",
+                data: { 'id': tr.attr('Id') },
+                success: function (data) {
+                    if (data == "OK")
+                        tr.remove();
+                    else
+                        alert('Brisanje neuspjelo!');
+                }
+            });
+        }
+    </script>
+}

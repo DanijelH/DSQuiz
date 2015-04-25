@@ -1,0 +1,58 @@
+﻿@model IEnumerable<DSKviz.Models.QuestionViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Question list</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.QuestionText)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Points)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr Id="@item.ID">
+        <td>
+            @Html.DisplayFor(modelItem => item.QuestionText)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Points)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            <a href="javascript:void(0)" onclick="deleteRow(this);">Delete</a>
+        </td>
+    </tr>
+}
+</tbody>
+</table>
+
+@section scripts{
+    <script type="text/javascript">
+        function deleteRow(link) {
+            var tr = $(link).closest('tr');
+            $.ajax({
+                url: '@Url.Action("Delete")',
+                method: "GET",
+                data: { 'id': tr.attr('Id')},
+                success: function (data) {
+                    if (data == "OK")
+                        tr.remove();
+                    else
+                        alert('Brisanje neuspjelo!');
+                }
+            });
+        }
+    </script>
+}

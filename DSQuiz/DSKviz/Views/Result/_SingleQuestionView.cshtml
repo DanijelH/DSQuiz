@@ -1,0 +1,11 @@
+﻿@model DSKviz.Models.QuestionViewModel
+
+@using (Html.BeginCollectionItem("Questions"))
+{
+    <div class="form-horizontal single-contact-wrapper">
+        @Html.HiddenFor(p => p.ID)
+        @Html.DisplayFor(p => p.QuestionText)
+        ( @Html.DisplayFor(p=>p.Points) points)
+    </div>
+}
+<hr />

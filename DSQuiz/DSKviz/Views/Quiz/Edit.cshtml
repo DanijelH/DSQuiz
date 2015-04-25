@@ -1,0 +1,85 @@
+﻿@model DSKviz.Controllers.QuizController.ViewModelWrapper
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit quiz</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <h4>QuizViewModel</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.quizModel.ID)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.quizModel.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.quizModel.Name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.quizModel.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.quizModel.CategoryID, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="input-group">
+                    @Html.DropDownListFor(model => model.quizModel.CategoryID, (IEnumerable<SelectListItem>)ViewBag.Categories, new { @class = "form-control" })
+                </div>
+                @Html.ValidationMessageFor(model => model.quizModel.CategoryID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+        
+        @foreach (var item in Model.quizModel.Questions)
+        {
+            @Html.ActionLink("Remove this question", "RemoveQuestionFromQ", new { quizID = Model.quizModel.ID, questionId = item.ID }, null)
+            <br />
+            @Html.DisplayFor(modelItem => item.QuestionText)
+            <br />
+            foreach (var answer in item.Answers)
+            {
+                @Html.DisplayFor(modelItem => answer.IsCorrect)
+                @Html.DisplayFor(modelItem=>answer.AnswerText)
+                <br />
+            }
+            @Html.Raw("<hr>")
+        }
+
+        <br />
+        <h2>Add question to quiz</h2>
+        <br />
+        @foreach (var avQuestion in Model.availableQuestions)
+        {
+            @Html.Raw("Question: ")
+            @Html.DisplayFor(mod=>avQuestion.QuestionText)
+            <br />
+            @Html.Raw("Points: ")
+            @Html.DisplayFor(mod=>avQuestion.Points)
+            <br />
+            @Html.Raw("Answers: ")
+            <br />
+            foreach (var item in avQuestion.Answers)
+            {
+                @Html.DisplayFor(mod => item.IsCorrect)
+                @Html.DisplayFor(mod =>item.AnswerText)
+                <br />
+            }
+            <br />
+            @Html.ActionLink("Add this question", "AddQuestionToQ", new { quizID = Model.quizModel.ID, questionId = avQuestion.ID },null)
+            <br />
+            <hr />
+        }
+    </div>
+}
+<br />
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

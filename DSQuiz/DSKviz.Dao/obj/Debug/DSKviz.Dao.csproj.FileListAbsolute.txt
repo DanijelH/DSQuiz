@@ -1,0 +1,289 @@
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.4\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.5s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.6\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.7\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.75\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.75s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._06FixedResultDetail.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._06FixedResultDetail.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.8s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._06FixedResultDetail.resources
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v0.97s\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._06FixedResultDetail.resources
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Stiven\Desktop\DSKviz_v0.98\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._06FixedResultDetail.resources
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\DSKviz_v1.0\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll.config
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Dao.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\DSKviz.Model.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._01InitialMigration.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._02AddAuth.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._03FixCategory.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._04FixOfAFix.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._05AdedUsernameToRez.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.Migrations._06FixedResultDetail.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.dll
+C:\Users\Danijel\Desktop\Programi\Moji programi\VisualStudioProjects\DSKviz_v1.1\DSKviz\DSKviz.Dao\obj\Debug\DSKviz.Dao.pdb

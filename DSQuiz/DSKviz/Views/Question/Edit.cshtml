@@ -1,0 +1,47 @@
+﻿@model DSKviz.Models.QuestionViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    <text>
+        @Html.Partial("_CreateOrEdit")
+        @Html.HiddenFor(p => p.ID)
+    </text>
+}
+
+<a href="#0" class="addButton">Add answer</a>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section scripts{
+
+    <script type="text/javascript">
+
+    $(function () {
+
+        $(".addButton").on("click", function () {
+                $.ajax({
+                    url: '@Url.Action("AddNewAnswer")',
+                    method: "POST",
+                    success: function(data){
+                        $('#QuestionAnswers').append(data);
+                    }
+                });
+            });
+
+        });
+
+        $('.deleter').on('click', function () {
+            $(this).closest('div.single-contact-wrapper').remove();
+        })
+
+    </script>
+
+}

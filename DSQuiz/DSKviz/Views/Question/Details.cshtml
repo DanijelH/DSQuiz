@@ -1,0 +1,45 @@
+﻿@model DSKviz.Models.QuestionViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Question</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.QuestionText)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuestionText)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Points)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Points)
+        </dd>
+    </dl>
+    <hr />
+    <h4>Answers</h4>
+    <br />
+    @foreach (var item in Model.Answers)
+    {
+        @Html.DisplayFor(modelItem => item.IsCorrect) @Html.Raw(" ")
+        @Html.DisplayFor(modelItem => item.AnswerText)
+        @Html.Raw("<br>")
+        
+        @Html.Raw("<br>")
+    }
+    <hr />
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
